@@ -1,0 +1,28 @@
+Fish  level 11 &12
+total (14)frames 
+{}=looping  "H" denotes homeposition
+
+Swim..........{1,2,3,2,1,200}
+Jump*(full jump sequence)(100,4,200H,5,6)*
+Jump1.........100
+Jump2.........4
+Jump3.........200
+Jump4.........5
+Jump5.........6
+
+Idle1**.........100      {100,101}
+Idle2.........101
+(eyes blinking just above water level/looking around) 
+
+Strike1.......200H,201,202(bite attack) (200H,201,202) 
+Hit...........500,501  (200H,500,501,500)
+KillFall......950     (500,501,950)
+
+
+*instead of putting just one version in here, Jump is the full sequence( in case
+timing can be the same everytime)---- I thought not, so I broke the jump down into more
+flexible bits( in case that would work better )
+
+**instead of making a dull old, "head-looks-back-and-forth" ani,  why not give the 
+animation some bit of life with a variable time on these two frames?
+

@@ -1,0 +1,13 @@
+
+
+
+
+		The crate		
+
+	1 SECOND = (1 UNIT)    {}=LOOP
+
+	1,2,3,4,5,6,7	CRATE BREAKING   {  (.1) for All  }
+
+	8		1 hit crate	
+
+		THIS IS BROKEN WHEN A CHARACTER USES A WEAPON ON It

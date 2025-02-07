@@ -1,0 +1,11 @@
+
+
+		Rat Bomb Expose'
+
+	1second = (1.000)	{}= loop it!
+
+
+
+	Bomb Drop    	Frames 001-006 at {  (.050)  }
+	Bomb Throw	Frames 012-017 at {  (.050)  }
+	Explosion 	Frames 007-011 at (.100)?

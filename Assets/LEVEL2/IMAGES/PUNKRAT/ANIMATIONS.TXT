@@ -1,0 +1,29 @@
+
+
+
+
+
+
+
+
+		PunkRat Animations
+
+	1 second= (1 unit)	{}=Looping
+	
+	8,9,10	Walk		{  8( .5),  9( .5 ), 10(.5) }
+	1,2,   	Stand		{  1(1  ),  2(1   )         }
+	3,4,5	Light it!	{  3(1  ),  4( .25),  5(.5) 
+	11,12	Recoil		  11( .5), 12( .75)         }
+	6,7	Shocking Death!	{  6( .1),  7( .1 )         }
+
+
+		Our PunkRat walks across the top of the cannon about 
+	4 or 5 pixels from the top of the barrel.
+		When he lights the cannon, on frame5, there is no 
+	reaction from the cannon until the 2cnd .25th of a second.  
+	he is then tossed into the air (frame11).  He should be high
+	for (.25) and then halfway down at the next (.25)
+		He will land as the cannon is moving forward.  
+	He should follow this by going forward 15 pixels at the 2cnd
+	(.25) and should rest there for (.25) after the cannon comes 
+	to rest.

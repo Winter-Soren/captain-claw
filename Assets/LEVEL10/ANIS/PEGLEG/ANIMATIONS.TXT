@@ -1,0 +1,30 @@
+PegLeg Pirate
+Level 9,10 
+total frames 42
+{}=looping  "H" denotes homeposition
+
+FastAdvance..........{1,2,3,4,5,6,7,8}
+Advance..............{200H,50,51,52}200H
+Idle1*....100,102,103 (going out, looking left)
+Idle2.....103,102,100 (back to home from left)
+Idle3.....100,101 (going out, looking to right)
+Idle4.....101,100(back to home from right)  
+Strike1**.........201,202,203,204
+Strike2...........300,301,302,303
+HitHigh...........200H,500,501,500,200H
+HitLow............200H,600,601,600,200H
+Jump..............800,801,802
+ForwardRoll.......850,851,852,853
+BackwardRoll......853,852,851,850
+Lifted1...........601,900
+Lifted2...........{900,901,902,903,904}
+Thrown.............905
+KillFall...........950 (fall until off screen)
+
+*idle broken into four parts:1-4(pull out guns and look around slowly)
+**Strike 1 is a high bullet shot
+Strike 2 is a low bullet shot, the gun shots are designed with the option of being singlely
+played, or played in random order (ex:highshot,low shot, idle, lowshot, lowshot,highshot)
+the flash for the gun going off are still missing-- painting issue
+***just in case it might be needed, I included a backward roll/ simple reverse
+It would look more interesting than just one direction for rolling

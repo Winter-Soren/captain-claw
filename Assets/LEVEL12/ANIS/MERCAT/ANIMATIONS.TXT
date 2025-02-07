@@ -1,0 +1,28 @@
+Mercat w/trident
+total 27 frames  
+{}=looping  "H" denotes homeposition
+
+FastAdvance.....1,2,3,4...walk/(slither) {1,2,3,4}
+Advance {use walk}**
+{100,101},{102,103}.....idle("kirk-look")look to left side (100,101,100)
+                                         look to right side (102,103,102)
+Idle1.....100
+Idle2.....101
+Idle3.....102
+Idle4.....103 
+Strike1.....200H,201,202,203,204 ....... strike1 (stab w/trident)* 
+	{200H,201,202,203,204,203,202,201,200H} 
+HitHigh....500,501 .......hit high  200H,500,501,500,200H
+HitLow......600,601....... hit low  200H,600,601,600,200H
+Lifted1...601,900
+Lifted2....{901,902,903,904}
+Thrown......905
+Jump........800,801,802............jump/hop
+KillFall........950.... fall/kill
+
+
+by "kirk-look" I mean a dramatic look around, head jerky
+* trident stab for close Claw,
+  trident stab with energy burst for distant Claw
+**  a slither looks like a slither no matter how you play it, FastAdvance is (duh) faster than
+the inch closer to you Advance

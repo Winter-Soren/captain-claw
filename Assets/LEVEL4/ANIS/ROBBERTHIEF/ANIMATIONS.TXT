@@ -1,0 +1,20 @@
+robberthief level 3,4   NEW =31 FRAMES
+
+{}= repeating frames
+
+1,2,3,4,5,6,7,8.....walk  {1,2,3,4,5,6,7,8}
+100,101,102,103,104,105,106.....idle  9,10 {11,12,13} ,14,15  idle1 is from standing down to kneeling,idle 2-3-4 is looking
+around, and idle5 is kneeling up to standing  please play idle1, {idle2,3,4}, idle5
+50,51,52.....advance (1,50,51,52)
+1..............HOME
+200,201,202,203,204,205,206,207,208...strike 1(shoot bow and arrow)200,201,202,203,204,205,206,207,208
+300,301,302,303,304,305,306,307,308........strike 2(low arrow)
+500,501..............hit high 
+600,601..............hit low
+700,701...............hit in duck
+800,801...............defense moves(jump)
+601,900,901,902,903,904.......thrown cycle
+950..........kill/fall
+
+
+having a nice day?	

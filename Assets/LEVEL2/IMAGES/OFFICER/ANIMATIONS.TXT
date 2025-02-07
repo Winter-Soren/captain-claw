@@ -1,0 +1,20 @@
+officer of the cocker spainards
+
+1000 millisec= (1 unit)   {}=looping
+
+1,2,3,4...walk {1(500),2(500),3(500),4(500)}
+5,6,7.....idle(looks around)    {6(500),5(1000),6(500),7(1000)} 
+8,9.......*thrown out*
+10H ....... HOME POSITION(strike) 
+***24,20,11........attack 1(strike) 10H,HESITATION24(400),20(200),FULLYEXTENDED11(300),10H
+12 .......jump  10H,12(250),10H
+13....... duck   10H,13(250),10H
+14 .......hit high  10H,14(250),10H
+15 .......hit low  10H,15(250),10H
+16 .......fall  10H,16(until off screen)
+17,18,19..advance/retreat  {10H(250),17(250),18(250),19(250)}10H
+15,21,22,23...thrown cycle 10H,GRABBED15(200),HELD OVER CC{21(400),22(300)},IMPACT23(200),
+                  REBOUND21(200),10H 
+
+
+

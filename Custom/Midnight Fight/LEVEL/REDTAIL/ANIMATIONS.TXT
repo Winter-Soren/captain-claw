@@ -1,0 +1,27 @@
+RedTail  Boss level 13
+total 37 frames  
+{}=looping  "H" denotes homeposition
+
+FastAdvance...........walk/bounceGait 1,2,3,4,5,6,7,8
+no advance
+Home...............200H..blocking like
+strike1........spinning knife high/standing or jumping 201,202 
+strike2............203,204  spinning knife low/standing or jumping
+Strike3.............211,212  high knife standing
+strike4............gun high attack    206,207,208
+Strike5............gun blast, explosion  209
+strike6............call wind 210 during jump/could be standing also
+strike7..........slide attack(comes out of Fast Advance) 301,302
+strike8...........kick/claw or sand 400,401,402
+HitHigh..............500,501 ...  200H,500,501,500,200H
+HitLow...............600,601..... 200H,600,601,600,200H
+Jump.................800,801,{802}     feeds into jumping attacks
+KillFall(for lack of better term,surrender sequence)  900,901,902,903,904
+surrender sequence/kneel RedTail drops
+exhausted ready to sucker Claw with the hidden knife
+
+as of
+11:51 AM 6/24/97
+needs registration especially KillFall
+needs frames 203,204,212,401,209 added to art directory:
+for now, placeholders in anis, ready to go 

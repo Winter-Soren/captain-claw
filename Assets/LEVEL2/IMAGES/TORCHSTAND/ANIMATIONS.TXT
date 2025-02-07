@@ -1,0 +1,11 @@
+
+
+
+
+		Candelabra N-M-8-shuns
+
+
+	1 second= (1unit)	{}= Loop
+
+
+	1,2,3,4 	Flicker	{  1(.125), 2(.125), 3(.125), 4(.125) }

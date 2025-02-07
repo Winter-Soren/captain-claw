@@ -1,0 +1,52 @@
+WELCOME to the Gabriel animation document
+36 frames  
+{}=looping  "H" denotes homeposition *READ NOTES below
+
+FastAdvance/Advance(use strikes for locomotion)*...[walk](!!!HandledByProgramming!!!) 
+Home........200H..home position
+Idle1.......100,101,102,103.....(plays with hair)
+                    (100,101,102,103,102,101) 
+Idle2........150,151,152,153,154...( mirror thing)(150,....154)
+Strike1*......200H,201.........(send out men, shake fist)
+Strike2......{202,203,204}....(send out men)
+Strike3......201,200........(s.o.m., see previous line)
+Strike4......300,301.......(som)
+Strike5......302...........(som)
+Strike6......301,300.......(som)
+Strike7......400,401,402....(drops bomb on Claw's head)
+HitHigh.....200H,500,501,500,200H
+HitLow......200H,600,601,600,200H
+
+DEATH SEQUENCE**....played in order
+HitHigh.....
+KillFall1***....(swooning around on platform) {900,901,902,903,902}
+KillFall2....(falls off deck)  904,905,906,907
+KillFall3....(impacts and bounces on ground level)  {908,909,910}.....
+KillFall4....(BIG FINALECurl-up-and-die) {909,911,912},913,914
+
+* since his legs will not be visible(more like amputated),
+programming WILL(!whip-crackin' noise here)move the STRIKES1-7
+to simulate walking movement, or when Gabby needs to move across the deck
+
+Stike flow chart:(start1)....->S1---------->{S2}>---->S3 (end)
+THINK VARIETY!                            /    /..............loop betwn S2 & S5
+                 (start2)....->S4--------->S5>------->S6 (end)
+these are possible alternatives to two strikes 
+offering a rotating three variety
+                 
+Frame version:
+strike cycles:  >>>200---201-{202,203,204}
+                     \               \       
+                      \               \     
+                       <->>>300------ 301<->302
+
+** this death sequence features Claw's last hit leaving Gabriel reeling,
+swooning around with hands on chest, he falls over deck of ship, 
+landing on ground with heavy impact, rebound and he gives a final spasm and
+curl-up in death
+
+*** I put this together with only the KillFall1 needing repeating and mirroring/flipping
+the KillFall2 frames were animated going off to the right(the wrong side, I think
+for this scene)  they may have to be flipped---I'll see about that at a later date
+
+00:00 25.04.97<end> 

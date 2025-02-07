@@ -1,0 +1,24 @@
+CrazyHook Pirate
+Levels 9 & 10
+total frames 39
+{}=looping  "H" denotes homeposition
+
+FastAdvance...........{1,2,3,4,5,6,7,8}
+Advance...............{200H,50,51,52}200H
+Idle1(scratches self with hook).....200H,100,101,{102,103},102,101,100 
+Strike1(high attack with hook)......200H,201,202,203,204,200H 
+Strike2(low attack with stilletto)...300,301,300
+HitHigh............................. 500,501,500
+HitLow ..............................600,601,600
+Jump.................................800,801,802
+Block(with hook and stilletto).......850,851,850
+Lifted1...............601,900
+Lifted2...............{900,901,902,903}
+Thrown................904
+KillFall..............950(fall until off screen)
+ 
+
+Look Out! He's Crazy AND he has a hook!!
+
+13:25 17.03.97
+16:48 28.04.97

@@ -1,0 +1,33 @@
+LordOmar  Boss level 14
+total ? frames  
+{}=looping  "H" denotes homeposition
+
+Idle.............200,100,101,102......fighting stance
+Home............200 
+Strike1...........200H,201,202,203 ....... strike1 
+	(summons things up from ground with hand moving up) {200H,201,202,203,200H} 
+Strike2..........200H,204,205,206,207........strike 2
+	(hand punch ground) {200H,204,205,206,207,200H}
+strike 3.........200H,211,212,213,214,215.....
+	(forming ball of energy and throwing) {200H,211,212,213,214,215,200H}
+strike4..........200H,208,209,210..............
+	(looks up to summon things from sky)
+hitHigh..........500,501 .......  200H,500,501,500,200H
+hitLow...........600,601....... hitLow  200H,600,601,600,200H
+block............700,701.............block frame
+KillFall,killfall2,killfall3.........(900,901,902,903,904....)
+   surrender sequence, open position, energy blast, falls on knee and surrenders to Claw
+
+
+As of 2:40 PM 6/27/97
+Everything is painted! Except missing energy blast for strike3 and reflection Damn it!
+and the Killfall now comes in three parts:
+killfall.......final hit into:
+KillFall2......repeating spasmation,is he moving around the screen?, 
+In somekind of circlular pattern--whatever!,
+ Omar is being held up in energy explosion, I don't know 
+how long this is really necessary 'cause I don't know what kind of spanglies are going
+to be played, then:
+KillFall3.......Omar hits ground, acknowledges that he is defeated, bows to Claw as he has
+been defeated by a superior fighter-- freeze for as long as necessary on that last frame
+<end>JKM

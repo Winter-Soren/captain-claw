@@ -1,0 +1,36 @@
+Royal Tiger Guard level 14?
+total 41 frames  
+{}=looping  "H" denotes homeposition
+
+FastAdvance...........1,2,3,4,5,6,7,8...walk {1,2,3,4,5,6,7,8}
+no advance/retreat
+Idle...............100,{101,102,103}.....idle(sharpen claws on knife) 
+Home........200H
+Strike1...........200H,201,202,203 ....... strike1* (swipe low)
+Strike2...........200H,300,301,302........strike2 (swipe high)
+Strike3...........200H,400,401,402,403......strike3**( dive/lunge w/knife from above) 
+HitHigh...........500,501 .......hit high  200H,500,501,500,200H
+HitLow............600,601....... hit low  200H,600,601,600,200H
+Block...............700.......duck block( gauntlet and knife )
+Jump...........800,801,802....jump (short)
+Flip...........850,851,852,853....pinwheel flip***(end over end)
+Lifted1.......601,900,901
+Lifted2.......{900,901,902,903}
+Thrown........904
+KillFall.......950.... fall/kill
+
+
+Most moves are all over the place except for the walk, and
+(pensive, and calm) idle.
+*the strikes are delivered from a slight hop stance so 
+that they can either stand in one place or slowly locomote
+forward to force the enemy backwards-----------
+	They are also designed to go smoothly back and forth randomly
+from strike1 - strike2 or in any order(ex.  home>strike1>home>strike2>strike1>home....)
+**  This strike has the tiger lunging straight out at claw with 
+knife and claws exposed foward to land on claw--- 
+the exit is the pinwheel Flip
+***The flip is designed to be more open than other character's flips,
+very acrobatic, yeah, whatever
+<end>
+2:35 PM 6/18/97

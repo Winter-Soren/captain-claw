@@ -1,0 +1,20 @@
+Cutthroat/bulldog knife-thrower  level 3-4
+{}=looping  "H" denotes home position
+
+1,2,3,4,5,6,7,8...walk {}
+1,50,51,52...........advance/retreat
+100,101,102,103.....idle(looks around)  these are listed as idle1-4-- play randomly 
+150,200,151,152.......stance(fighting fake-out)
+200 ....... HOME 
+200,201,202,203........strike 1(stab w/knife)
+200,300,301,302,303,304,305.....strike 2 right hand HIGH knife attack 
+200,300,301,302,400,401,402.....strike 3-left hand LOW knife attack
+450,451,452,453..............strike 4(over-head strike) 
+500,501 .......hithigh
+600,601 .......hitlow 
+..........no duck needed for low attack
+800,801,802.......defense/jump
+950 .......fall  (until off screen)
+601,900,901,902,903....lifted:being thrown sequence ,GRABBED,HELD OVER HEAD{},IMPACT GROUND,REBOUND,STANDING 
+900,901,902,903.......lifted2:(held over head)
+905........thrown (hitting ground) impact

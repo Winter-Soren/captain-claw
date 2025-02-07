@@ -1,0 +1,15 @@
+Chameleon  level 13, 14(?)
+total (18)frames 
+{}=looping  "H" denotes homeposition
+
+FastAdvance.......1,2,3,4,5,6...walk {1,2,3,4,5,6}
+Idle.............idle(head popping, tail wiggling)    {200,100,200,101,102,101}
+Home.............200H............home position 
+Strike1......... strike1 (tongue) {200H,201,202,203,204,201,200H} 
+Hit..............(*500,501 .......hit  200H,500,501,500,200H)
+Jump............800,801............jump
+KillFall........900.... fall/Kill until off screen
+
+So i lied!  this lizard also has a tiny jump.
+It is supposed to fade in and out for the annoyance of the player.
+

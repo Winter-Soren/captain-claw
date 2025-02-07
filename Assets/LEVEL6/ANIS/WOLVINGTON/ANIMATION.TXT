@@ -1,0 +1,19 @@
+Magistrate Wolvington
+total frames  
+{}=looping  "H" denotes homeposition
+
+1,2,3,4,5,6,7,8...walk {1,2,3,4,5,6,7,8}
+200,50,51,52........advance/retreat {200H,50,51,52}200H
+100,101,102,103.....idle(looks around)    {100,101,102,103,102,101} 
+200H,201,202,203,204 ....... strike1 (low sword) {200H,201,202,203,204,200H} 
+200H,300,301,302,303,304........strike 2(high gauntlet punch) {200H,300,301,302,303,302,301,300,200H}
+200H,400,401,402,403.....strike 3(high magic punch) {200H,300,301,400,401,200H}
+200H,300,301,450,451......strike4(low magic punch){200H,300,301,450,451,200H}
+500,501 .......hit high  200H,500,501,500,200H
+600,601....... hit low  200H,600,601,600,200H
+601,900,901,902,902,903,904.....thrown cycle 200H, GRABBED 601,
+	HELD OVER CC{900,901,902,901,900,901,902,903**}IMPACT 904
+                  REBOUND902,200H
+800,801,802............jump
+950.... fall/kill
+

@@ -1,0 +1,37 @@
+Cap'n Joe Marrow    boss level 10
+total 44 frames  
+{}=looping  "H" denotes homeposition
+
+FastAdvance...... 1,2,3,4,5,6,7,8...{1,2,3,4,5,6,7,8}
+advance..... 200,50,51,52........{200H,50,51,52}200H
+idle1*......   100,101,102    (100,101,{102,103},102,101)   
+idle2 ......103  	
+idle3 ......102  
+idle4 ......102,101,100 
+HOME........200H  
+strike1.....(gunSHot High)    200H,201,202,203(pulls gun out),205(gun out--fire) 
+			204(gun goes back into jacket)
+strike2(sword swipe low).....(200H,300,301,302,303,304)........ 
+HitHigh ........... 200H,500,501,500,200H
+HitLow............. 200H,600,601,600,200H
+Lifted**...........{900,901,902,903,904}
+IMPACT***............ 905 
+JUMP...............800,801,802
+KillFall****...........500,501,950,951,952,953 
+
+ 
+*.....Idle1-4 all same set.  Joe is raising hand over head(1), AND giving a little hand
+flick(2,3), and then bringing hand back down again(4).  What is this move for?  Well,
+if parrot can land on extended hand-- covering hand movement-- looks like character
+interaction.  If used without parrot landing on hand, looks like Joe is giving Claw a 
+FAMILY-STYLEtm Italian "curse".
+**.....There was some discussion about the parrot lifting Joe and taking him to
+opposite bluff from Claw.  This set will work with the parrot grabbing onto the 
+sleeve of Joe's raised arm( since the idle looks better with the parrot visually in front
+of Joe, that will have to work for this interaction also).
+***......with Joe not being able to be picked up by Claw, this means the impact might
+never be used.  Unless the parrot can get hit while carrying Joe, and he gets dumped.
+hmmm!
+****....a rather minor death sequence:  this whole set goes through Joe going back in a high
+hit, coming back forward for a short bit, and then falling backwards, and off screen.
+<end>12:24 PM 6/2/97

@@ -1,0 +1,22 @@
+Hermit Crab
+simple enough? huh?
+(13 frames)    levels  11 & 12
+
+
+{}= repeating frames          *= inf. below              "H"= home position
+
+
+1,2..................FastAdvance  {1,2}
+200H.................home position
+201,202,203,204......Strike1 ( 200H, 201,202,203,204)*
+500,501..............hit(200H,500,501,200H)
+800,801..............Crouch1(getting down into protected/defensive crouch)
+802..................Crouch2,eyes open,hide in shell (defense move)  (200H, 800,{801,802}*** 200H
+801..................crouch3, eyes blinked shut
+801,800..............crouch4  get back up into home
+950..................KillFall (arc off screen) (501,950)
+
+*Crab attack designed so that it is  either pinching or throwing object.
+*** {801,802} cycle is Crab's eyes blinking as it hides in shell.
+
+

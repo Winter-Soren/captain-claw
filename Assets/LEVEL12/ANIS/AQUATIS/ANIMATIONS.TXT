@@ -1,0 +1,28 @@
+King Aquatis   level 12 boss
+total 42 frames total with tentacles 
+{}=looping  "H" denotes homeposition
+
+BODY:23 frames
+no walk
+no advance/retreat
+Home...............200H
+Idle1*........100,101,102(looks happy/smug)    
+Idle2........104,105,106(looks angry)
+Idle3..........107,108,109.........(looks freaked out/afraid)
+Strike1.......high punch.....200H,201,202,203,204(lashes out with fists)
+strike2(low punch)***...............200H,205,206,207
+hitHigh...........500,501 ....... 200H,500,501,500,200H
+hitLow............600,601.......   200H,600,601,600,200H
+no thrown cycle**
+no jump
+KillFall..................950,951,952,953,954,955,956( sink into water/slump)
+
+*a lot of this animation is matched to my tests which use the sounds on the macserver, some
+tweaking may be necessary to match mouth position to sound, we'll see
+**Since Aquatis is far too heavy to pick up---
+and has no legs drawn---no pickup, thrown, impact, 
+or jump cycles needed.  He is sitting in 
+one general spot for the whole time; there is 
+plenty to hit Claw without walking around.
+
+***Strike two can be used with strike one, as a one-two punch.

@@ -1,0 +1,31 @@
+BearSailor
+Level 7 and 8
+total frames 37  
+{}=looping  "H" denotes homeposition
+
+FastAdvance..........1,2,3,4,5,6,7,8...walk {1,2,3,4,5,6,7,8}
+Advance/Retreat......50,51,52.....{200H,50,51,52}200H
+Idle.................200H,100,101,102,103(looks around){100,101,102,103,102,101} 
+Strike1(swipe).......{200H,201,202,203,204,200H} 
+strike 2("bearhug"#1) 200H,300,301<end>
+Strike 3("bearhug"#2){302,303,304,303}
+Strike 4("bearhug"#3) 301,300,200<end>
+HitHigh..............  200H,500,501,500,200H
+HitLow...............  200H,600,601,600,200H
+Jump..................800,801,802<end>
+Lifted1...............601,900,<end>
+Lifted2...............HELD OVER CC{900,901,902,901,900,901,902,903}
+Thrown................IMPACT 904
+KillFall...........950 (fall until off screen)
+
+
+Frame Match-up for "BearHug"tm 
+Bear / Claw
+450....302
+451....303
+452....304
+
+Strike 1........swipe
+strike 2........go into hug
+strike 3........hug
+strike 4........come out of hug

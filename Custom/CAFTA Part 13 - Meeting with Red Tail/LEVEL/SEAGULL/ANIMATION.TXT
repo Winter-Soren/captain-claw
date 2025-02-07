@@ -1,0 +1,43 @@
+Parrot level-10 with Boss
+total frames:17(not counting posible feather sequence
+	or possible additionals--25)
+   
+{}=looping  "H" denotes homeposition
+
+Fly..........1,2,3,4...fly {1,2,3,4}
+
+Home.........200H..........homeposition
+Idle.........200H,100,101....... idle (squawk, bob head up
+				 and down with sword in teeth)
+	{200,100,101low squat,100,200,102hyper-extension}
+
+Strike1**......102.........transfer frame trans between idle and flying(gets sword
+	from mouth to foot/hand)
+	(used whenever trans between fly and idle)
+
+Strike2......201,202,203,204,205*.........strike1(flying:swipe with sword!!!)
+	(201,202,203,204,205)
+
+Hit***.........500,501 .......hit(lows and highs)  500,501,500
+
+(700,701,702,703,704****......feather sequence 700,701,
+     {FLOATING DOWN TO GROUND702,703,704,703})
+
+KillFall........500,501,950.... fall/dead until off screen
+
+
+Parrot is sidekick/pet of Joe Marrow.  Parrot is designed to sit on objects and attack
+in boss-battle with Claw.  His idle is bobbing his head while he is standing.  His attack
+is a swipe with his bitty bird sword while he is flying.  Marrow is being animated with an
+idle of him calling to, or maybe feeding the bird.  This would be a swoop-by for the bird,
+maybe making a small biscuit in Marrow's hand disappear.
+*this designed to hold sword sequence within wing sequence
+**this frame makes a smoother transition between flying and standing on something
+***since there is only ONE hit, it must play either in flight or standing, and 
+must continue into either the fly or stand depending on what parrot is doing--- not 
+HOME position 
+****Feathers are not done, will be done at time they are wanted
+(will this guy need these???if so can we reuse seagull feathers?)
+Feathers come in two sets:
+the explode ends, and the featherfloat is a cycling ani to 
+be repeated until the feathers disappear off the screen

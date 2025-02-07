@@ -1,0 +1,11 @@
+
+
+		Cannon Animation
+
+	1 second= (1 unit)	{}= Looping
+
+1		Rest	{ 1 }
+1,2,3,4,5 	Fire	{ 1(.25), 2(.25), 3(.25), 4(.25), 5(.25)  }
+
+
+	This is vital to time correctly with the rat.

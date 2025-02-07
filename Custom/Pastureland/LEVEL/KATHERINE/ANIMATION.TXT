@@ -1,0 +1,33 @@
+Leader of the Thieves( frames) boss level 4
+
+{}=repeating frames    *=info-below    "H"=home position
+
+1,2,3,4,5,6,7,8..walk  {1,2,3,4,5,6,7,8}
+9<100,10>101,11>102,12>103.......idle(taps boot with knife) 1,9,10,11,10,11,12,9,1
+13>201,14>202,15>203,16>204,17>205,18>206,207.....strike #1 (whip)  19H,{13,14,15,16,17,18},19H
+200H............HOME(stance/get ready to fight)
+20>300,21>301,22>302...............strike #2 (stab) 19H,{20,21,22,21},19H 
+
+****23,24,25,26,27,28,34.........defense move (flip/ forward and back sequence)
+	forward 19H,23-800,24-801,*{25-802-807,26,27}*,28-808,34-809,19H
+	back 19H,34,28,*{27,26,25}*,24,23,19H
+500,29>501..............hit high  19H,29,19H
+550.....iced
+560.....flamed
+600,30>601..............hit low  19H,30,19H
+32>950.............fall {32}until off screen
+30-900,31-901,32-902,33-903.....thrown sequence  CC grabs at 30, held over CC{31,32},
+                  impact with ground 33>903,rebound 30, 19H
+34... last frame of flip see above
+..... advance/retreat non-existent, use walk
+
+****notes:  the flip is intended to work as a sequence, frame after frame non-repeating,
+ OR as a variant flip with the length changing randomly as the middle frames(25,26,27)
+are repeated as needed.  This may not work smoothly due to the two exit frames on either side
+of the repeating section of the flip.  The exit frames:(28&34 on forward flips,
+ 24&23 on back flips) will have to be played as flip hits ground-level.
+
+
+
+
+                	   

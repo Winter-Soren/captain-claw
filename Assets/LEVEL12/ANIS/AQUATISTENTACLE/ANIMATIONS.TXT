@@ -1,0 +1,13 @@
+King Aquatis   level 12 boss
+total 42 frames  
+{}=looping  "H" denotes homeposition
+
+...
+TENTACLES:18 frames
+Idle..............{150,151,152,153}.(tentacles waving)
+Strike1..........(tentacle slap/whip)300,400,301,401......
+strike2...........300,400,301(go out to grab for tentacle squeeze)
+strike3............tentacle squeeze{302,303,304}
+Hit................500,501,500.....(tentacle gets hit)
+KillFall.........(tentacles screwed up slump/sink)500,501,500,950,951,952,953
+

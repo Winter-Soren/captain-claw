@@ -1,0 +1,22 @@
+Mercat Siren
+total 27 frames  
+{}=looping  "H" denotes homeposition
+
+FastAdvance............1,2,3,4...walk/(slither) {1,2,3,4}
+advance............... {slower walk}
+Idle...............100,101,102,103(clear throat,la-la-lalala or something)
+    this move will have to be changed to match whatever sound works with it 
+Strike1............200H,201,202,203,204 ....... (siren call attack) 
+	(200H,201,202,203,204) 
+HitHigh.............  200H,500,501,500,200H
+HitLow..............  200H,600,601,600,200H
+Lifted1.......601,900
+Lifted2.......{901,902,902,903,904}.....
+Thrown........905 
+Jump...........800,801,802............jump/hop
+KillFall.......950
+
+
+The two major things to work on for the timing are 1)the idle( dependent on sound )
+and 2)the Advance and FastAdvance are the same animations, played at different speeds
+to match a legged-enemy's Advance or FastAdvance 

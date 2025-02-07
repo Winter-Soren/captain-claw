@@ -1,0 +1,37 @@
+LeRauxe(30 frames) boss level 2
+
+1 second=(1 unit)  {}=repeating frames *=note "H"=home position
+
+1,2,3,4,5,6,7,8..walk cycle {1,2,3,4,5,6,7,8}
+200H,50,51,52..... advance/retreat {200,50,51,52}
+100,101,102,103,104.......idle(pulls on glove)100,101,(102,103),104
+200H......home
+201....home1........HOME POSITIONS(stance/get ready to fight)  {200,201}  
+202,203,204...............strike 1 (stab) 
+300,301,302,303,304.........strike 2 (swing/slash)
+
+500,501..............hit high
+550..................burnt by fire sword
+560..................hit by ice sword
+600,601..............hit low
+601 .............killfall until off screen
+800,801,802 ..............high block  
+803,804............. low block(also lead frame for defense jump back)
+803,804,805,806,807,808,809.........defense move (jump/ forward and back sequence)
+		back 803,804,805,806,807,808,809
+		forward 809,808,807,806,805,804,803
+
+900,901,902,903.....thrown sequence  CC grabs at 601, held over CC{900,901,902,903},
+                  impact with ground 904,rebound 902
+
+
+***6/12 many of the frames are not registered properly, this should be changed
+
+there is also no specific death frame, I figured that the extreme for the low hit looked
+better than one of the being held-over-Claw's-head frames 
+
+
+
+
+*painting note:  idle cycle 10,11,12 legs identical
+                	   

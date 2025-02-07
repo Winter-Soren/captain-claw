@@ -1,0 +1,17 @@
+
+
+
+
+		Powder Keg Animations
+
+
+
+
+	Just Sittin' There      {  001(Indefinate)  }
+	Explosion		002, 003, 004, 005, 006  (All at .130)
+	Pick up'n Throw		001 for Claw's duck and first frame 
+				of throw. 
+				007 for above the head frames 1,2
+				008, 009, 010,  (All at .130)
+					In arc until it hits the ground.
+					

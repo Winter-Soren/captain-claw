@@ -1,0 +1,4 @@
+crumbling bush
+   sec= (1 unit)   {}=looping
+
+001-014...crum/bush {  001-014(2)} this looked good at 12 fpi in Dir.

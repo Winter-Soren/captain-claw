@@ -1,0 +1,20 @@
+Level 13 and 14
+total frames 41?
+{}=looping  "H" denotes homeposition
+
+1,2,3,4,5,6,7,8...walk {1,2,3,4,5,6,7,8}
+200H,50,51,52........advance/retreat {200H,50,51,52}200H
+100,101,102,103,104.....idle(look around tough)    {100,101,102,103,102,101} 
+200H,201,202,203,204 ....... strike1 (sword swipe high) {200H,201,202,203,204,200H} 
+200H,300,301,302........strike 2(sword swipe low) {200H,300,301,302,303,302,301,300,200H}
+500,501 .......hit high  200H,500,501,500,200H
+600,601....... hit low  200H,600,601,600,200H
+800,801,802............jump
+850,851,852............Block projectiles with sword
+601,900,901,902,903,904....().....thrown cycle GRABBED 601,
+	HELD OVER CC{900,901,902,901,900,901,902,903**}IMPACT 904,
+                  REBOUND{900,901,902,903},200H
+950.... KillFrame (fall until off screen)
+ 
+3/18/97  you'll notice that frame 904 is missing, hence also in addition the Thrown cycle,
+               this will be fixed asap

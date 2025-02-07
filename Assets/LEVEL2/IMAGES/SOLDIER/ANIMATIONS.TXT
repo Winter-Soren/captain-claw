@@ -1,0 +1,17 @@
+soldier of the cocker spainards
+
+1000 millisec= (1 unit)   {}=looping  "H" denotes homeposition
+
+1,2,3,4...walk {1(500),2(500),3(500),4(500)}
+5,6.....idle(looks around)    {6(500),5(1000)} 
+7H,8,9 ....... attack A(shoot) {7(300),8(500),9(200),7(200)} 
+7H,10,11........attack B(strike with gunend) 7,10(200),11(300),7
+12 .......hit high  10,14(250),10
+13....... hit low  10,15(250),10
+7H,14,15,16 ....... advance/retreat  {7H(250),14(250),15(250),16(250)}7H
+13,17,18,19.....thrown cycle 7H,GRABBED13(200),HELD OVER CC{17(400),18(300)},IMPACT19(200),
+                  REBOUND18(200),7H 
+17...fall until off screen
+
+
+painting note: 5 & 6 same body, 
